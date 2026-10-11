@@ -1,0 +1,24 @@
+{
+  "name": "loomlet",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 4178 --strictPort",
+    "build": "vite build",
+    "start": "vite preview --host 127.0.0.1 --port 4178 --strictPort",
+    "train": "python3 train/train_loomlet.py",
+    "test:parity": "node tests/parity.mjs",
+    "test:ac": "playwright test",
+    "test": "npm run test:parity && npm run build && npm run test:ac"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.0.0"
+  }
+}
