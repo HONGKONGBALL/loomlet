@@ -48,5 +48,5 @@ AC-25 PASS qa-evidence/AC-25.png
 AC-26 PASS qa-evidence/AC-26.png
 AC-27 PASS qa-evidence/AC-27.png
 
-GitHub: pending push
+GitHub: https://github.com/HONGKONGBALL/loomlet
 YouTube: not recorded and not uploaded
