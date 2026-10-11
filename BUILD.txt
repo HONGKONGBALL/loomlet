@@ -1,0 +1,52 @@
+Loomlet — on-device textile bench for Banana Hacks 2026.
+
+Start:
+  npm install
+  npm run build
+  npm start
+
+Port: 4178
+URL: http://127.0.0.1:4178
+Env vars: none
+API keys: none
+
+Train again (optional; checked-in weights already run):
+  python3 -m venv --system-site-packages .venv
+  .venv/bin/pip install torch --index-url https://download.pytorch.org/whl/cpu
+  .venv/bin/python train/train_loomlet.py
+
+Checks (final run, all PASS):
+  node tests/parity.mjs
+  npx playwright test
+  Playwright: 26 passed. Parity: PASS.
+
+AC-01 PASS qa-evidence/AC-01.png
+AC-02 PASS qa-evidence/AC-02.png
+AC-03 PASS qa-evidence/AC-03.png
+AC-04 PASS qa-evidence/AC-04.png
+AC-05 PASS qa-evidence/AC-05.png
+AC-06 PASS qa-evidence/AC-06.png
+AC-07 PASS qa-evidence/AC-07.png
+AC-08 PASS qa-evidence/AC-08.png qa-evidence/AC-08-repeat.png
+AC-09 PASS qa-evidence/AC-09.png
+AC-10 PASS qa-evidence/AC-10.png
+AC-11 PASS qa-evidence/AC-11.png
+AC-12 PASS qa-evidence/AC-12.png
+AC-13 PASS qa-evidence/AC-13.png
+AC-14 PASS qa-evidence/AC-14.png
+AC-15 PASS qa-evidence/AC-15.png
+AC-16 PASS qa-evidence/AC-16.png
+AC-17 PASS qa-evidence/AC-17.png
+AC-18 PASS qa-evidence/AC-18.png
+AC-19 PASS qa-evidence/AC-19.png
+AC-20 PASS qa-evidence/AC-20.png
+AC-21 PASS qa-evidence/AC-21.json
+AC-22 PASS qa-evidence/AC-22.png
+AC-23 PASS qa-evidence/AC-23.png
+AC-24 PASS qa-evidence/AC-24.png
+AC-25 PASS qa-evidence/AC-25.png
+AC-26 PASS qa-evidence/AC-26.png
+AC-27 PASS qa-evidence/AC-27.png
+
+GitHub: pending push
+YouTube: not recorded and not uploaded
