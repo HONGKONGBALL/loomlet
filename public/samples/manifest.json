@@ -1,0 +1,136 @@
+{
+  "samples": [
+    {
+      "id": "HS-014",
+      "family": "Harbor Stripe",
+      "familyIndex": 0,
+      "lot": "Pier-14",
+      "nickname": "Salt-ink",
+      "seed": 1014,
+      "image": "/samples/HS-014.png",
+      "pixels": "/samples/pixels/HS-014.bin",
+      "confidence": 1.0
+    },
+    {
+      "id": "HS-027",
+      "family": "Harbor Stripe",
+      "familyIndex": 0,
+      "lot": "Pier-27",
+      "nickname": "Fog lantern",
+      "seed": 1027,
+      "image": "/samples/HS-027.png",
+      "pixels": "/samples/pixels/HS-027.bin",
+      "confidence": 1.0
+    },
+    {
+      "id": "MG-008",
+      "family": "Moss Grid",
+      "familyIndex": 1,
+      "lot": "Fen-08",
+      "nickname": "Fen moss",
+      "seed": 2008,
+      "image": "/samples/MG-008.png",
+      "pixels": "/samples/pixels/MG-008.bin",
+      "confidence": 0.9999
+    },
+    {
+      "id": "MG-033",
+      "family": "Moss Grid",
+      "familyIndex": 1,
+      "lot": "Fen-33",
+      "nickname": "Glass net",
+      "seed": 2033,
+      "image": "/samples/MG-033.png",
+      "pixels": "/samples/pixels/MG-033.bin",
+      "confidence": 0.9999
+    },
+    {
+      "id": "CD-002",
+      "family": "Copper Dot",
+      "familyIndex": 2,
+      "lot": "Kiln-02",
+      "nickname": "Kiln copper",
+      "seed": 3002,
+      "image": "/samples/CD-002.png",
+      "pixels": "/samples/pixels/CD-002.bin",
+      "confidence": 0.9995
+    },
+    {
+      "id": "CD-019",
+      "family": "Copper Dot",
+      "familyIndex": 2,
+      "lot": "Kiln-19",
+      "nickname": "Clay spark",
+      "seed": 3019,
+      "image": "/samples/CD-019.png",
+      "pixels": "/samples/pixels/CD-019.bin",
+      "confidence": 1.0
+    },
+    {
+      "id": "NS-041",
+      "family": "Night Speckle",
+      "familyIndex": 3,
+      "lot": "Lamp-41",
+      "nickname": "Lamp soot",
+      "seed": 4041,
+      "image": "/samples/NS-041.png",
+      "pixels": "/samples/pixels/NS-041.bin",
+      "confidence": 0.9867
+    },
+    {
+      "id": "NS-056",
+      "family": "Night Speckle",
+      "familyIndex": 3,
+      "lot": "Lamp-56",
+      "nickname": "Moth dust",
+      "seed": 4056,
+      "image": "/samples/NS-056.png",
+      "pixels": "/samples/pixels/NS-056.bin",
+      "confidence": 0.9992
+    },
+    {
+      "id": "TW-011",
+      "family": "Tide Wave",
+      "familyIndex": 4,
+      "lot": "Quay-11",
+      "nickname": "Quay teal",
+      "seed": 5011,
+      "image": "/samples/TW-011.png",
+      "pixels": "/samples/pixels/TW-011.bin",
+      "confidence": 1.0
+    },
+    {
+      "id": "TW-028",
+      "family": "Tide Wave",
+      "familyIndex": 4,
+      "lot": "Quay-28",
+      "nickname": "Night tide",
+      "seed": 5028,
+      "image": "/samples/TW-028.png",
+      "pixels": "/samples/pixels/TW-028.bin",
+      "confidence": 0.8805
+    },
+    {
+      "id": "CC-006",
+      "family": "Cedar Chevron",
+      "familyIndex": 5,
+      "lot": "Loom-06",
+      "nickname": "Cedar bark",
+      "seed": 6006,
+      "image": "/samples/CC-006.png",
+      "pixels": "/samples/pixels/CC-006.bin",
+      "confidence": 0.9959
+    },
+    {
+      "id": "CC-022",
+      "family": "Cedar Chevron",
+      "familyIndex": 5,
+      "lot": "Loom-22",
+      "nickname": "Shuttle red",
+      "seed": 6022,
+      "image": "/samples/CC-022.png",
+      "pixels": "/samples/pixels/CC-022.bin",
+      "confidence": 0.999
+    }
+  ]
+}

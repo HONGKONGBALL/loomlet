@@ -1,0 +1,21 @@
+{
+  "holdoutAccuracy": 0.9916666746139526,
+  "holdoutCount": 720,
+  "holdoutMaskBce": 0.21214435994625092,
+  "holdoutPixelAccuracy": 0.9133463501930237,
+  "galleryMinConfidence": 0.880548357963562,
+  "galleryMinTextureStd": 0.16644196212291718,
+  "sameFamilyCosineMin": 0.5693697556853294,
+  "compareOn": "softmax",
+  "samePairMin": 0.9909238219261169,
+  "diffPairMax": 0.14781568944454193,
+  "families": [
+    "Harbor Stripe",
+    "Moss Grid",
+    "Copper Dot",
+    "Night Speckle",
+    "Tide Wave",
+    "Cedar Chevron"
+  ],
+  "note": "Scores use held-out synthetic images from the same fictional pattern generator as the sample lots. They are not measurements of real fabric."
+}
